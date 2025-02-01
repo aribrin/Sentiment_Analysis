@@ -1,0 +1,1 @@
+source ~/Documents/Projects_2025/sentiment_analysis/myenv/bin/activate
